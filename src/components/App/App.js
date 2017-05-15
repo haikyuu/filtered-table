@@ -1,6 +1,6 @@
 import React from 'react';
 import { withState, pure, compose, withPropsOnChange } from 'recompose'
-import { searchProducts, data } from './utils'
+import { searchProducts, data } from '../../utils'
 
 import './App.css';
 
